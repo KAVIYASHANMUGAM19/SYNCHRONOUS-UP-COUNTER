@@ -69,8 +69,9 @@ endmodule
 
 **TRUTH TABLE**
 
+![Uploading Screenshot 2024-11-11 100014.png…]()
 
 
 **RESULTS**
 
-      Thus SYNCHRONOUS-UP-COUNTER is verified successfully
+Thus SYNCHRONOUS-UP-COUNTER is verified successfully
